@@ -1,0 +1,7 @@
+* {
+    margin: 0; /* O margin deixa os espacamentos em branco*/
+    padding: 0; /* O padding deixa os preenchimentos em branco*/
+    outline: none; /* O outline deixa os contornos em branco*/
+    box-sizing: border-box; /* O box-sizing deixa a largura e altura incluir o preenchimento e o contorno*/
+    font-family: monospace; /* A fonte ficará monoespaçada */
+}
